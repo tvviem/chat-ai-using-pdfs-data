@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "chat-ai-using-pdfs-data"
+version = "0.1.0"
+description = "CHAT AI APP using PDFs as INPUTDATA"
+authors = ["NanonyBLU"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.9.18"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
